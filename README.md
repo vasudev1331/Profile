@@ -73,7 +73,7 @@ A computer vision-based system that detects and recognizes vehicle license plate
 ## 📫 Let's Connect!
 
 *   🔗 <a href="www.linkedin.com/in/adiraju-vasudeva-murthy-b7196421b">LinkedIn</a>
-*   📧 Email: adiraju@gmail.com
+*   📧 adiraju@gmail.com
 *   🌐 <a href="https://adiraju-vasudeva-murthy-jhdc405.gamma.site/">Portfolio</a>
 
 * * *
@@ -107,6 +107,4 @@ If you like what I do, feel free to follow, star 🌟 some repositories, or conn
 <img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=vasudev1331&theme=dark"></td><td width="50%" align="center">
 <img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=vasudev1331&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
 
-## Connect with me
-
-<p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/johndoe" target="_blank">A. Vasudeva Murthy</a> Email: adirajuvasu@gmail.com</p>
+---

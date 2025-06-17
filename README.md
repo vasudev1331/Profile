@@ -26,7 +26,7 @@ My mission is to build solutions that make data useful, insightful, and impactfu
 *   **Languages:** Python, SQL, R (basic)
 *   **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn, Power BI
 *   **Machine Learning & Deep Learning:** scikit-learn, TensorFlow, Keras, OpenCV
-*   **Databases:** MySQL, SQLite
+*   **Databases:** MySQL, NoSQL
 *   **Tools & Platforms:** Jupyter, Google Colab, VS Code, Git, GitHub, Streamlit
 *   **Certifications:** Python, Power BI, SQL, Data Visualization
 
@@ -72,9 +72,9 @@ A computer vision-based system that detects and recognizes vehicle license plate
 
 ## 📫 Let's Connect!
 
-*   🔗 <a href="https://www.linkedin.com/in/your-profile">LinkedIn</a>
-*   📧 Email: yourname@example.com
-*   🌐 Portfolio: _Coming Soon_
+*   🔗 <a href="www.linkedin.com/in/adiraju-vasudeva-murthy-b7196421b">LinkedIn</a>
+*   📧 Email: adiraju@gmail.com
+*   🌐 <a href="https://adiraju-vasudeva-murthy-jhdc405.gamma.site/">Portfolio</a>
 
 * * *
 

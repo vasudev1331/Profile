@@ -69,8 +69,8 @@ A computer vision-based system that detects and recognizes vehicle license plate
 
 ## 📫 Let's Connect!
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)
-- 📧 Email: yourname@example.com
+- 🔗 [[LinkedIn](https://www.linkedin.com/in/adiraju-vasudeva-murthy-b7196421b/)
+- 📧 Email: adirajuvasu@gmail.com
 - 🌐 Portfolio: *Coming Soon*
 
 ---
